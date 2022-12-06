@@ -50,9 +50,9 @@ namespace PE
         private void button1_Click(object sender, EventArgs e)
         {
             if ( Heigh_TB.Text == String.Empty || Weight_TB.Text == String.Empty || CG_TB.Text == String.Empty || Bloodp_TB.Text == String.Empty || Heartrate_TB.Text == String.Empty || Heartratere_TB.Text == String.Empty || Age_TB.Text == String.Empty || (M.Checked == false && W.Checked == false))
-                MessageBox.Show("1");
+                MessageBox.Show("Вы ввели не все параметры");
             else if (M.Checked == true && W.Checked == true)
-                MessageBox.Show("0");
+                MessageBox.Show("Вы не можите указать два пола, выберите один из них");
             else
             {
                 MyGlobals.heigh = Convert.ToSingle(Heigh_TB.Text);
