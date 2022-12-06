@@ -38,3 +38,23 @@ C:\Users\Василий\Desktop\Новая папка (3)\Assessment-of-the-phys
 C:\Users\Василий\Desktop\Новая папка (3)\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.pdb
 C:\Users\Василий\Desktop\Новая папка (3)\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.genruntimeconfig.cache
 C:\Users\Василий\Desktop\Новая папка (3)\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\ref\PE.dll
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\bin\Debug\net6.0-windows\PE.exe
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\bin\Debug\net6.0-windows\PE.deps.json
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\bin\Debug\net6.0-windows\PE.runtimeconfig.json
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\bin\Debug\net6.0-windows\PE.dll
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\bin\Debug\net6.0-windows\PE.pdb
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.Form1.resources
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.Main.resources
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.Properties.Resources.resources
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.Result.resources
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.AssemblyInfo.cs
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.dll
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\refint\PE.dll
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.pdb
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\PE.genruntimeconfig.cache
+C:\Users\anton\Desktop\ewffwe\Assessment-of-the-physical-development-of-the-body\PE\obj\Debug\net6.0-windows\ref\PE.dll
